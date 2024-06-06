@@ -6,9 +6,7 @@ export default function Card({ title, picture, link }) {
       <Link href={`/items/${link}`}>
         <div className="card">
           <div className="title">{title}</div>
-          <div className="picture">
-            <img src={picture} alt={title} />
-          </div>
+          <div className="picture"></div>
         </div>
       </Link>
     </>
