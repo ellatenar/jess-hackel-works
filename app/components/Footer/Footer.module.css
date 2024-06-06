@@ -1,0 +1,10 @@
+.footer {
+  position: absolute;
+  bottom: 1rem;
+  z-index: 10;
+}
+
+.footer > div {
+  max-width: 50rem;
+  margin: 0 auto;
+}

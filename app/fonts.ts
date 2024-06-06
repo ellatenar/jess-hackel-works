@@ -5,3 +5,9 @@ export const absans = localFont({
   display: "swap",
   variable: "--font-absans",
 })
+
+export const pillowlava = localFont({
+  src: "../public/fonts/Pilowlava-Regular.woff2",
+  display: "swap",
+  variable: "--font-pillowlava",
+})

@@ -1,0 +1,17 @@
+.blob1 {
+  inset: 10%;
+  scale: 40%;
+
+  position: absolute;
+  overflow: hidden;
+  z-index: 1;
+}
+
+.blob2 {
+  scale: 40%;
+  top: 16%;
+  left: 5%;
+  position: absolute;
+  overflow: hidden;
+  z-index: 1;
+}

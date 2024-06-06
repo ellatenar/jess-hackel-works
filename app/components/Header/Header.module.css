@@ -1,0 +1,16 @@
+.header {
+  margin: 3rem;
+}
+
+.header span:not(.flourish) {
+  padding: 0 2rem;
+}
+
+.headerText {
+  margin-right: -0.5rem;
+}
+
+.flourish {
+  margin-left: 0.4rem;
+  color: #38618c;
+}
