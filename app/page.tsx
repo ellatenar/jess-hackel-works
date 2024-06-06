@@ -1,8 +1,8 @@
+"use client"
 import React from "react"
 import { attributes, react as HomeContent } from "../content/home.md"
-import Nav from "../components/Nav"
-import Header from "../components/Header"
-import Footer from "../components/Footer"
+import Nav from "./components/Nav"
+import Footer from "./components/Footer"
 
 export default function Home() {
   return (
@@ -10,7 +10,11 @@ export default function Home() {
       <Nav />
 
       <main>
-        <Header text="Welcome to my portfolio!" />
+        <h1>
+          <span>₪</span>
+          <span>Jess Hackel</span>
+          <span></span>
+        </h1>
       </main>
 
       <Footer />

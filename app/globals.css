@@ -64,6 +64,35 @@ h6 {
 
 /* End CSS Reset */
 
-.container {
+h1 span {
+  padding: 0 2rem;
+}
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+html,
+body {
+  max-width: 100vw;
+  overflow-x: hidden;
+}
+
+main {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  min-height: 100vh;
+  min-width: 100vw;
+}
+
+body {
   cursor: url("../public/media/flower-cursor-small.png"), auto;
+}
+
+a {
+  cursor: unset;
 }

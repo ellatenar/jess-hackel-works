@@ -1,6 +1,7 @@
 import Link from "next/link"
+import * as React from "react"
 
-export default function Nav() {
+function Nav() {
   return (
     <nav className="nav" role="navigation" aria-label="main navigation">
       <Link href="/">Home</Link>
@@ -8,3 +9,5 @@ export default function Nav() {
     </nav>
   )
 }
+
+export default Nav
