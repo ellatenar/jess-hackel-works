@@ -1,6 +1,5 @@
 import React from "react"
 import { attributes, react as HomeContent } from "../content/home.md"
-
 import Nav from "../components/Nav"
 import Header from "../components/Header"
 import Footer from "../components/Footer"
