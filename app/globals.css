@@ -99,6 +99,7 @@ img[class*="blob"] {
   overflow: hidden;
   z-index: 1;
   object-fit: contain;
+  pointer-events: none;
 }
 
 main {
@@ -106,6 +107,7 @@ main {
   flex-direction: column;
   justify-content: space-between;
   align-items: center;
+  margin-bottom: 4rem;
 
   /* idk why– it just feels off to me without this? */
   margin-left: 0.5rem;

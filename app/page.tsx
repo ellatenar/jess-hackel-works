@@ -19,6 +19,7 @@ export default function Home() {
           className={styles.headshot}
           alt="headshot"
           height={250}
+          objectFit="contain"
           priority
         />
         <HomeContent />
