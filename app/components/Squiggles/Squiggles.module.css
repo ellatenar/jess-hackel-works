@@ -39,10 +39,36 @@
 
 /* Experience Squiggles */
 
-.blob5 {
+.blobOutline4_Experience {
   scale: 40%;
-  top: -5%;
-  left: 37%;
+  top: -55%;
+  left: 48%;
+}
+
+.blob5_Experience {
+  scale: 40%;
+  top: 10%;
+  left: -37%;
 }
 
 /* Contact Squiggles */
+
+.blobOutline3_Contact {
+  scale: 40%;
+  top: -55%;
+  left: 48%;
+  rotate: -90deg;
+}
+
+.blob2_Contact {
+  scale: 56%;
+  top: 14%;
+  left: 27%;
+  transform: skew(15deg, 15deg);
+}
+
+.blobOutline5_Contact {
+  scale: 44%;
+  top: 0%;
+  left: -22%;
+}

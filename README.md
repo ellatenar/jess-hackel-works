@@ -13,5 +13,5 @@
 
 ## TODO:
 
-- [ ] format admin/config.yml
+- [x] format admin/config.yml
 - [ ] add designs for contact, bio, xp pages

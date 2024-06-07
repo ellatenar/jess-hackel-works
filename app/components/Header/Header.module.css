@@ -42,3 +42,10 @@
     flex-flow: column;
   }
 }
+
+@media (max-width: 500px) {
+  .header span:not(.accent) {
+    padding: 0 0.5rem;
+    text-align: center;
+  }
+}
