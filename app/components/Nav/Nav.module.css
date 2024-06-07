@@ -2,3 +2,7 @@
   padding: 1rem;
   border: 1px dotted #800080;
 }
+
+.active {
+  color: #ffe74c;
+}

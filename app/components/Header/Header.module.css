@@ -1,5 +1,5 @@
 .header {
-  margin: 3rem;
+  margin: 3rem 3rem 0;
 }
 
 .header span:not(.flourish) {
@@ -13,4 +13,29 @@
 .flourish {
   margin-left: 0.4rem;
   color: #38618c;
+}
+
+@media (max-width: 770px) {
+  .header {
+    margin: 2rem 1rem 0;
+  }
+
+  .header span:not(.flourish) {
+    padding: 0 1rem;
+    text-align: center;
+  }
+
+  .header {
+    display: flex;
+    align-items: center;
+  }
+
+  .header span:not(.headerText) {
+    display: block;
+  }
+
+  .headerText {
+    display: flex;
+    flex-flow: column;
+  }
 }

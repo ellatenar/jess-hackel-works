@@ -1,6 +1,7 @@
 import React from "react"
 import { absans } from "./fonts"
 import "./globals.css"
+import Nav from "./components/Nav"
 
 export const metadata = {
   title: "Jess Hackel",
@@ -14,7 +15,12 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body className={absans.className}>{children}</body>
+      <body className={absans.className}>
+        <div className="container">
+          <Nav />
+          {children}
+        </div>
+      </body>
     </html>
   )
 }
