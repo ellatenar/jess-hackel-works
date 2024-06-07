@@ -1,34 +1,48 @@
-.blob1 {
+/* Home Squiggles */
+.blob1_Home {
   inset: -33%;
   scale: 40%;
 }
 
-.blobOutline1 {
+.blobOutline1_Home {
   top: -33%;
   left: -33%;
   scale: 40%;
 }
 
-.blob2 {
-  scale: 40%;
-  top: 28%;
-  left: 5%;
-}
-
-.blobOutline2 {
-  scale: 40%;
-  top: 16%;
-  left: 5%;
-}
-
-.blob4 {
+.blob4_Home {
   scale: 40%;
   top: -20%;
   left: 37%;
 }
+
+/* Bio Squiggles */
+
+.blob2_Bio {
+  scale: 40%;
+  top: -50%;
+  left: -55%;
+}
+
+.blobOutline2_Bio {
+  scale: 40%;
+  top: -50%;
+  left: -50%;
+}
+
+.blob4_Bio {
+  scale: 40%;
+  top: -3%;
+  left: 52%;
+  rotate: 165deg;
+}
+
+/* Experience Squiggles */
 
 .blob5 {
   scale: 40%;
   top: -5%;
   left: 37%;
 }
+
+/* Contact Squiggles */

@@ -3,14 +3,19 @@ import styles from "./Header.module.css"
 import classNames from "classnames"
 import { pillowlava } from "@/app/fonts"
 
-function Header() {
+interface Props {
+  title?: string
+  accent?: string
+}
+
+function Header({ title, accent }: Props) {
   return (
     <h1 className={styles.header}>
       <span>₪</span>
       <span className={styles.headerText}>
-        Jess Hackel{" "}
-        <span className={classNames(styles.flourish, pillowlava.className)}>
-          works
+        {!!title && <span className={styles.title}>{title}</span>}
+        <span className={classNames(styles.accent, pillowlava.className)}>
+          {accent}
         </span>
       </span>
       <span></span>

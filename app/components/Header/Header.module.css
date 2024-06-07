@@ -2,16 +2,19 @@
   margin: 3rem 3rem 0;
 }
 
-.header span:not(.flourish) {
+.header span:not(.accent) {
   padding: 0 2rem;
 }
 
-.headerText {
+.title {
   margin-right: -0.5rem;
 }
 
-.flourish {
-  margin-left: 0.4rem;
+.title + .accent {
+  margin-left: -0.6rem;
+}
+
+.accent {
   color: #38618c;
 }
 
@@ -20,7 +23,7 @@
     margin: 2rem 1rem 0;
   }
 
-  .header span:not(.flourish) {
+  .header span:not(.accent) {
     padding: 0 1rem;
     text-align: center;
   }
@@ -30,7 +33,7 @@
     align-items: center;
   }
 
-  .header span:not(.headerText) {
+  .header span:not(.title) {
     display: block;
   }
 

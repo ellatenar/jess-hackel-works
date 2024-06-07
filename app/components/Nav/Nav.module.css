@@ -1,6 +1,8 @@
 .nav a {
   padding: 1rem;
   border: 1px dotted #800080;
+  border-radius: 1rem;
+  margin: 1rem;
 }
 
 .active {

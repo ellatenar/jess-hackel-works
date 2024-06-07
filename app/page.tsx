@@ -1,27 +1,29 @@
 import * as React from "react"
-import { attributes, react as HomeContent } from "../content/home.md"
-import Nav from "./components/Nav"
-import Footer from "./components/Footer"
-import Header from "./components/Header"
+import { attributes, react as HomeContent } from "content/home.md"
 import styles from "./page.module.css"
+import Header from "./components/Header"
+import Footer from "./components/Footer"
 import Image from "next/image"
 import headshot from "public/media/headshot.png"
 import Squiggles from "./components/Squiggles"
 
 export default function Home() {
+  const { title, accent } = attributes
+
   return (
     <>
       <main>
-        <Header />
+        <Header title={title} accent={accent} />
         <Image
           src={headshot}
           className={styles.headshot}
           alt="headshot"
           height={250}
+          priority
         />
         <HomeContent />
       </main>
-      <Squiggles />
+      <Squiggles page="home" />
       <Footer />
     </>
   )
