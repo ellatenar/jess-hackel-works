@@ -13,16 +13,16 @@ collections:
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Accent", name: "accent", widget: "string" }
           - { label: "Body", name: "body", widget: "markdown" }
-      - label: "Bio"
-        name: "bio"
-        file: "content/bio.md"
+      - label: "About"
+        name: "about"
+        file: "content/about.md"
         fields:
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Accent", name: "accent", widget: "string" }
           - { label: "Body", name: "body", widget: "markdown" }
-      - label: "Experience"
-        name: "experience"
-        file: "content/experience.md"
+      - label: "Work"
+        name: "work"
+        file: "content/work.md"
         fields:
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Accent", name: "accent", widget: "string" }
