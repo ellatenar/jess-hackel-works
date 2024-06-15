@@ -1,6 +1,11 @@
 ---
-title:
+title: Contact
 accent: Contact
 ---
+If you want to say hi and work together, email me:
 
-Imperdiet proin fermentum leo vel orci porta non pulvinar. Sem integer vitae justo eget magna. Ultrices dui sapien eget mi proin sed libero enim sed. Dignissim suspendisse in est ante in nibh mauris cursus mattis.
+Jesshackelworks@gmail.com 
+
+
+
+I’m not very active on social media, but you can follow me if you’d like, and I’ll probably follow you back!
