@@ -1,5 +1,5 @@
 ---
-title: About
+title: " "
 accent: About
 ---
 I can do a lot of things.
