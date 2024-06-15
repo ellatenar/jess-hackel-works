@@ -1,5 +1,5 @@
 ---
-title: Work
+title: " "
 accent: Work
 ---
 Here are some projects I’ve worked on:
