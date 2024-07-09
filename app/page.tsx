@@ -14,14 +14,6 @@ export default function Home() {
     <>
       <main>
         <Header title={title} accent={accent} />
-        <Image
-          src={headshot}
-          className={styles.headshot}
-          alt="headshot"
-          height={250}
-          objectFit="contain"
-          priority
-        />
         <HomeContent />
       </main>
       <Squiggles page="home" />

@@ -1,6 +1,6 @@
 /* Home Squiggles */
 .blob1_Home {
-  inset: -33%;
+  inset: 8%;
   scale: 40%;
 }
 
@@ -10,10 +10,22 @@
   scale: 40%;
 }
 
+.blob3_Home {
+  scale: 40%;
+  top: -6%;
+  left: -21%;
+}
+
 .blob4_Home {
   scale: 40%;
   top: -20%;
   left: 37%;
+}
+
+.blob5_Home {
+  scale: 40%;
+  top: -12%;
+  left: 15%;
 }
 
 /* Bio Squiggles */

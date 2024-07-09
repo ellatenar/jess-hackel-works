@@ -27,6 +27,33 @@ collections:
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Accent", name: "accent", widget: "string" }
           - { label: "Body", name: "body", widget: "markdown" }
+          - label: "Projects"
+            name: "projects"
+            widget: "list"
+            summary: "{{fields.quote}} - {{fields.author.name}}"
+            fields:
+              - {
+                  label: Quote,
+                  name: quote,
+                  widget: string,
+                  default: "Everything is awesome!",
+                }
+              - label: Author
+                name: author
+                widget: object
+                fields:
+                  - {
+                      label: Name,
+                      name: name,
+                      widget: string,
+                      default: "Emmet",
+                    }
+                  - {
+                      label: Avatar,
+                      name: avatar,
+                      widget: image,
+                      default: "/img/emmet.jpg",
+                    }
       - label: "Contact"
         name: "Contact"
         file: "content/contact.md"
@@ -34,3 +61,8 @@ collections:
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Accent", name: "accent", widget: "string" }
           - { label: "Body", name: "body", widget: "markdown" }
+          - label: "Social URLs"
+            name: "urls"
+            widget: "list"
+            fields:
+              - { label: URL, name: url, widget: string }

@@ -62,8 +62,9 @@ function Squiggles({ page }: Props) {
               className={styles.blobOutline1_Home}
               alt=""
             />
+            <Image src={blob3} className={styles.blob3_Home} alt="" />
             <Image src={blob4} className={styles.blob4_Home} alt="" />
-            <Image src={blob5} className={styles.blob4_Home} alt="" />
+            <Image src={blob5} className={styles.blob5_Home} alt="" />
           </>
         )
       )}
