@@ -12,9 +12,7 @@ export default function Contact() {
       <main>
         <Header title={title} accent={accent} />
         <ContactContent />
-        {urls.map((url: string) => (
-          <SocialIcon key={url} url={url} />
-        ))}
+        {urls && urls.map((url: string) => <SocialIcon key={url} url={url} />)}
       </main>
       <Squiggles page="contact" />
     </>
