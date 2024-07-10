@@ -1,0 +1,7 @@
+.socialUrls {
+  display: flex;
+}
+
+.socialUrls > * {
+  margin: 1rem;
+}
