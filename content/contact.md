@@ -1,6 +1,8 @@
 ---
 title: " "
 accent: Contact
+urls:
+  - url: https://www.linkedin.com/in/jessicahackel/
 ---
 
 If you want to say hi and work together, email me:
