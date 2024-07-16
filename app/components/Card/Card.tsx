@@ -11,7 +11,7 @@ export interface CardProps {
 function Card({ image, text, link, date }: CardProps) {
   return (
     <div>
-      <Image src={image} alt={text} />
+      <Image src={image} alt={text} height={100} width={100} />
       <div>
         <a href={link}>{text}</a>
       </div>
