@@ -28,36 +28,36 @@
   left: 15%;
 }
 
-/* Bio Squiggles */
+/* About Squiggles */
 
-.blob2_Bio {
+.blob2_About {
   scale: 40%;
   top: -50%;
   left: -55%;
 }
 
-.blobOutline2_Bio {
+.blobOutline2_About {
   scale: 40%;
   top: -50%;
   left: -50%;
 }
 
-.blob4_Bio {
+.blob4_About {
   scale: 40%;
   top: -3%;
   left: 52%;
   rotate: 165deg;
 }
 
-/* Experience Squiggles */
+/* Work Squiggles */
 
-.blobOutline4_Experience {
+.blobOutline4_Work {
   scale: 40%;
   top: -55%;
   left: 48%;
 }
 
-.blob5_Experience {
+.blob5_Work {
   scale: 40%;
   top: 10%;
   left: -37%;

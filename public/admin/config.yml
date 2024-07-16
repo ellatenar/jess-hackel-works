@@ -26,6 +26,11 @@ collections:
         fields:
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Accent", name: "accent", widget: "string" }
+          - {
+              label: "Text under project grid",
+              name: "underGridContent",
+              widget: "markdown",
+            }
           - { label: "Body", name: "body", widget: "markdown" }
           - label: "Projects"
             name: "projects"
@@ -33,27 +38,33 @@ collections:
             summary: "{{fields.quote}} - {{fields.author.name}}"
             fields:
               - {
-                  label: Quote,
-                  name: quote,
+                  label: Text,
+                  name: text,
                   widget: string,
-                  default: "Everything is awesome!",
+                  default: "Example project",
                 }
-              - label: Author
-                name: author
-                widget: object
-                fields:
-                  - {
-                      label: Name,
-                      name: name,
-                      widget: string,
-                      default: "Emmet",
-                    }
-                  - {
-                      label: Avatar,
-                      name: avatar,
-                      widget: image,
-                      default: "/img/emmet.jpg",
-                    }
+              - {
+                  label: Link,
+                  name: link,
+                  widget: url,
+                  hint: "Must be a valid URL",
+                  default: "https://google.com",
+                }
+              - {
+                  label: Image,
+                  name: image,
+                  widget: image,
+                  allow_multiple: false,
+                  default: "/img/emmet.jpg",
+                }
+              - {
+                  label: Date,
+                  name: date,
+                  widget: datetime,
+                  default: "",
+                  dateformat: l,
+                }
+
       - label: "Contact"
         name: "Contact"
         file: "content/contact.md"

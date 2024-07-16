@@ -19,16 +19,16 @@ interface Props {
 function Squiggles({ page }: Props) {
   return (
     <>
-      {page === "bio" ? (
+      {page === "about" ? (
         <>
-          <Image src={blob2} className={styles.blob2_Bio} alt="" />
+          <Image src={blob2} className={styles.blob2_About} alt="" />
           <Image
             src={blobOutline2}
-            className={styles.blobOutline2_Bio}
+            className={styles.blobOutline2_About}
             alt=""
           />
-          <Image src={blob4} className={styles.blob4_Bio} alt="" />
-          <Image src={blob5} className={styles.blob4_Bio} alt="" />
+          <Image src={blob4} className={styles.blob4_About} alt="" />
+          <Image src={blob5} className={styles.blob4_About} alt="" />
         </>
       ) : page === "contact" ? (
         <>
@@ -44,14 +44,14 @@ function Squiggles({ page }: Props) {
             alt=""
           />
         </>
-      ) : page === "experience" ? (
+      ) : page === "work" ? (
         <>
           <Image
             src={blobOutline4}
-            className={styles.blobOutline4_Experience}
+            className={styles.blobOutline4_Work}
             alt=""
           />
-          <Image src={blob5} className={styles.blob5_Experience} alt="" />
+          <Image src={blob5} className={styles.blob5_Work} alt="" />
         </>
       ) : (
         page === "home" && (

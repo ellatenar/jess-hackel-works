@@ -11,8 +11,8 @@ import { useState } from "react"
 
 const Links = [
   { title: "Home", href: "/" },
-  { title: "Bio", href: "/bio" },
-  { title: "Experience", href: "/experience" },
+  { title: "About", href: "/about" },
+  { title: "Work", href: "/work" },
   { title: "Contact", href: "/contact" },
 ]
 

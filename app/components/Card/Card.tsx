@@ -1,7 +1,23 @@
-import * as React from 'react';
+import * as React from "react"
+import Image from "next/image"
 
-function Card() {
-  return <div></div>;
+export interface CardProps {
+  image: string
+  text: string
+  link: string
+  date: string
 }
 
-export default Card;
+function Card({ image, text, link, date }: CardProps) {
+  return (
+    <div>
+      <Image src={image} alt={text} />
+      <div>
+        <a href={link}>{text}</a>
+      </div>
+      <div>{date}</div>
+    </div>
+  )
+}
+
+export default Card
