@@ -46,7 +46,7 @@ collections:
               - {
                   label: Link,
                   name: link,
-                  widget: url,
+                  widget: string,
                   hint: "Must be a valid URL",
                   default: "https://google.com",
                 }
