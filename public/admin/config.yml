@@ -26,16 +26,11 @@ collections:
         fields:
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Accent", name: "accent", widget: "string" }
-          - {
-              label: "Text under project grid",
-              name: "underGridContent",
-              widget: "markdown",
-            }
           - { label: "Body", name: "body", widget: "markdown" }
           - label: "Projects"
             name: "projects"
             widget: "list"
-            summary: "{{fields.string}} - {{fields.date}}"
+            summary: "{{fields.text}}"
             fields:
               - {
                   label: Text,
@@ -64,6 +59,11 @@ collections:
                   format: l,
                   date_format: "M/D/YYYY",
                 }
+          - {
+              label: "Text under project grid",
+              name: "underGridContent",
+              widget: "markdown",
+            }
 
       - label: "Contact"
         name: "Contact"
