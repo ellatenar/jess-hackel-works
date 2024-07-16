@@ -1,7 +1,9 @@
 ---
 title: " "
 accent: Work
-underGridContent: " Under grid content "
+underGridContent:
+  " And here some nice things people have said about those projects:
+  "
 projects:
   - text: Pineapple Street Media
     link: https://www.pineapple.fm/
@@ -10,9 +12,3 @@ projects:
 ---
 
 Here are some projects I’ve worked on:
-
-SHOW ART IN A GRID THAT LINKS TO
-
-Little description underneath
-
-And here some nice things people have said about those projects:
