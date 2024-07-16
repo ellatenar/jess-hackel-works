@@ -30,26 +30,33 @@ collections:
           - label: "Projects"
             name: "projects"
             widget: "list"
-            summary: "{{fields.text}}"
+            summary: "{{fields.title}}"
             fields:
+            - {
+                  label: Title,
+                  name: title,
+                  widget: string,
+                  default: "Example project",
+                }
               - {
                   label: Text,
                   name: text,
                   widget: string,
-                  default: "Example project",
+                  default: "Example description",
                 }
               - {
                   label: Link,
                   name: link,
                   widget: string,
                   hint: "Must be a valid URL",
-                  default: "https://google.com",
+                  default: "https://example.com",
                 }
               - {
                   label: Image,
                   name: image,
-                  widget: image,
-                  allow_multiple: false,
+                  widget: string,
+                  hint: "Must be a valid URL",
+                  default: "https://example.com",
                 }
               - {
                   label: Date,

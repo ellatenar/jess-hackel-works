@@ -7,4 +7,12 @@ module.exports = {
     })
     return cfg
   },
+  images: {
+    remotePatterns: [
+      {
+        protocol: "https",
+        hostname: "**",
+      },
+    ],
+  },
 }

@@ -8,7 +8,7 @@ interface Props {
 
 function Grid({ cards }: Props) {
   return (
-    <div className={styles.cardGrid}>
+    <div className={styles.grid}>
       {cards?.map(({ ...props }, idx) => (
         <Card key={idx} {...props} />
       ))}
