@@ -1,7 +1,7 @@
 import * as React from "react"
 import styles from "./Header.module.css"
 import classNames from "classnames"
-import { pillowlava } from "@/app/fonts"
+import { pilowlava } from "@/app/fonts"
 
 interface Props {
   title?: string
@@ -18,7 +18,7 @@ function Header({ title, accent }: Props) {
         {!title?.match(emptyRegex) && (
           <span className={styles.title}>{title}</span>
         )}
-        <span className={classNames(styles.accent, pillowlava.className)}>
+        <span className={classNames(styles.accent, pilowlava.className)}>
           {accent}
         </span>
       </span>

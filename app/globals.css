@@ -127,9 +127,8 @@ body {
   cursor: url("../public/media/purple-cursor.png"), auto;
 }
 
-a,
-footer {
-  cursor: unset;
+a {
+  cursor: pointer;
 }
 
 .container {

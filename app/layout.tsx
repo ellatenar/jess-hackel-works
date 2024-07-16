@@ -5,7 +5,7 @@ import Nav from "./components/Nav"
 
 export const metadata = {
   title: "Jess Hackel",
-  description: "TODO add description",
+  description: "Jess Hackel works",
 }
 
 export default function RootLayout({
