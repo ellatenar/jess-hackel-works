@@ -8,12 +8,16 @@ interface Props {
   accent?: string
 }
 
+const emptyRegex = /^\s*$/
+
 function Header({ title, accent }: Props) {
   return (
     <h1 className={styles.header}>
       <span>₪</span>
       <span className={styles.headerText}>
-        {!!title && <span className={styles.title}>{title}</span>}
+        {!title?.match(emptyRegex) && (
+          <span className={styles.title}>{title}</span>
+        )}
         <span className={classNames(styles.accent, pillowlava.className)}>
           {accent}
         </span>
