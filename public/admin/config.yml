@@ -32,7 +32,7 @@ collections:
             widget: "list"
             summary: "{{fields.title}}"
             fields:
-            - {
+              - {
                   label: Title,
                   name: title,
                   widget: string,
