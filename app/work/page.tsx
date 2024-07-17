@@ -4,6 +4,7 @@ import Header from "../components/Header"
 import Squiggles from "../components/Squiggles"
 import Grid from "../components/Grid"
 import styles from "./Work.module.css"
+import Markdown from "react-markdown"
 
 export default function Work() {
   const { title, accent, projects, underGridContent } = attributes
@@ -13,7 +14,9 @@ export default function Work() {
         <Header title={title} accent={accent} />
         <WorkContent />
         <Grid cards={projects} />
-        <div className={styles.underGridContent}>{underGridContent}</div>
+        <Markdown className={styles.underGridContent}>
+          {underGridContent}
+        </Markdown>
       </main>
       <Squiggles page="work" />
     </>
