@@ -13,13 +13,15 @@ export interface CardProps {
 function Card({ title, image, text, link, date }: CardProps) {
   return (
     <div className={styles.card}>
-      <Image
-        src={image}
-        alt={title}
-        height={100}
-        width={100}
-        className={styles.cardImage}
-      />
+      <a href={link}>
+        <Image
+          src={image}
+          alt={title}
+          height={100}
+          width={100}
+          className={styles.cardImage}
+        />
+      </a>
       <div>
         <a href={link}>{title}</a>
       </div>
