@@ -77,11 +77,11 @@ h1 {
 }
 
 svg {
-  background: #9b9b9b;
+  background: #8ed98d;
 }
 
 p {
-  background: #9b9b9b;
+  background: #8ed98d;
   padding: 0.5rem 1rem;
   border-radius: 1.5rem;
 }
@@ -91,7 +91,7 @@ body,
 main {
   max-width: 100vw;
   overflow-x: hidden;
-  background-color: #9b9b9b;
+  background-color: #8ed98d;
 }
 
 img[class*="blob"] {
@@ -120,7 +120,8 @@ a:hover {
 main,
 footer,
 a {
-  color: #faf9f6;
+  /* font color */
+  color: #3f3f3f;
 }
 
 body {
