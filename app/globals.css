@@ -124,13 +124,13 @@ a {
   color: #3f3f3f;
 }
 
-body {
-  cursor: url("../public/media/purple-cursor.png"), auto;
+* {
+  cursor: url("../public/media/flower-cursor-small.png"), auto;
 }
 
-a {
+/* a {
   cursor: pointer;
-}
+} */
 
 .container {
   padding: 2rem;
