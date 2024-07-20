@@ -12,16 +12,21 @@ projects:
     link: https://podcasts.apple.com/us/podcast/ghost-story/id1708635466
     image: https://images.squarespace-cdn.com/content/v1/63501d599d9da041a836f803/6d45b85c-2079-4abd-bf32-a49dac67dfd1/Ghost_Story_3000x3000_final.png?format=750w
     date: 10/12/2016
-  - title: 70 over 70
-    text: "Pineapple Street Original "
+  - title: 70 over 70 // Pineapple Street
+    text: Producer
     link: https://www.pineapple.fm/70-over-70
     image: https://images.squarespace-cdn.com/content/v1/63501d599d9da041a836f803/1666194839799-0B5R9F1E863I7VMCIPPC/70+over+70+Covers+-+Coral.jpg?format=750w
+    date: 1/1/1901
+  - title: "ESPN Investigates: Bloodlines"
+    text: ESPN
+    link: https://podcasts.apple.com/us/podcast/trailer-bloodlines/id1529658898?i=1000489715826
+    image: https://images.squarespace-cdn.com/content/v1/63501d599d9da041a836f803/347217e3-d2ba-4f84-9783-cbc168b0fbfe/bloodlines-3000x3000.png?format=750w
     date: 1/1/1901
 underGridContent: |-2
    And here some nice things people have said about those projects: 
 
   *"Lorem ipsum"* - Person TK
 ---
-For a long time, I developed and produced podcasts at Pineapple Street Studios. I also used to work on the HBO Series *High Maintenance.* \
+For a long time, I developed and produced podcasts at Pineapple Street Studios. I also worked on the HBO Series *High Maintenance.* \
 \
 Here are some projects I’ve worked on:
