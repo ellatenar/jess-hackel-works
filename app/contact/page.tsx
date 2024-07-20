@@ -9,7 +9,7 @@ export default function Contact() {
   const { title, accent, urls } = attributes
   return (
     <>
-      <main>
+      <main className={styles.contact}>
         <Header title={title} accent={accent} />
         <ContactContent />
         <div className={styles.socialUrls}>

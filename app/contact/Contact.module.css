@@ -5,3 +5,7 @@
 .socialUrls > * {
   margin: 1rem;
 }
+
+.contact {
+  width: min-content;
+}
