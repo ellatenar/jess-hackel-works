@@ -2,14 +2,14 @@
 title: " "
 accent: Work
 projects:
-  - title: GHOST STORY //  Pineapple + Amazon Wondery
-    link: https://podcasts.apple.com/us/podcast/ghost-story/id1708635466
+  - title: What Now? with Trevor Noah
+    text: Senior Producer // DayZero Productions + Spotify
+    link: https://open.spotify.com/show/122imavATqSE7eCyXIcqZL?si=11176798ea444530
+    image: https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/0e/e2/93/0ee2934f-6b70-483a-7cf1-13be9b6e127c/mza_7484161158786393860.jpg/626x0w.webp
+    date: 7/20/2024
+  - title: Ghost Story // Pineapple Street + Amazon/Wondery
     text: Senior Producer + Development Producer
-    image: https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/0f/44/03/0f44037e-bb19-64a1-5c60-bfbe434b534b/mza_14673204215564976931.jpeg/626x0w.webp
-    date: 1/1/1901
-  - title: Project 2
-    text: Example description
-    link: https://example.com
+    link: https://podcasts.apple.com/us/podcast/ghost-story/id1708635466
     image: https://i.pinimg.com/originals/95/b1/51/95b1511dc8ac7044c8153f305b45c1b4.jpg
     date: 10/12/2016
 underGridContent: |-2
