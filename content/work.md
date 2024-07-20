@@ -32,6 +32,11 @@ projects:
     link: https://podcasts.apple.com/us/podcast/julie-the-unwinding-of-the-miracle/id1449737055
     image: https://images.squarespace-cdn.com/content/v1/63501d599d9da041a836f803/1666194839921-17106ZFG41OC2HSFXH33/JULIE_FINAL_A.jpg?format=750w
     date: 1/1/1901
+  - title: Nike
+    text: "Producer "
+    link: https://podcasts.apple.com/us/podcast/trained/id1414073313
+    image: https://images.squarespace-cdn.com/content/v1/63501d599d9da041a836f803/1666194840041-6P9N1DBWJTIOZALK8WFR/trained.jpg?format=750w
+    date: 1/1/1901
 underGridContent: |-2
    And here some nice things people have said about those projects: 
 
