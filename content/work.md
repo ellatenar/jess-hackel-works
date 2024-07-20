@@ -2,10 +2,10 @@
 title: " "
 accent: Work
 projects:
-  - title: GHOST STORY // Pineapple + Amazon Wondery
+  - title: GHOST STORY //  Pineapple + Amazon Wondery
     link: https://podcasts.apple.com/us/podcast/ghost-story/id1708635466
     text: Senior Producer + Development Producer
-    image: https://podcasts.apple.com/us/podcast/ghost-story/id1708635466
+    image: https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/0f/44/03/0f44037e-bb19-64a1-5c60-bfbe434b534b/mza_14673204215564976931.jpeg/626x0w.webp
     date: 1/1/1901
   - title: Project 2
     text: Example description
