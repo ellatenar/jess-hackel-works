@@ -22,15 +22,15 @@ projects:
     link: https://podcasts.apple.com/us/podcast/trailer-bloodlines/id1529658898?i=1000489715826
     image: https://images.squarespace-cdn.com/content/v1/63501d599d9da041a836f803/347217e3-d2ba-4f84-9783-cbc168b0fbfe/bloodlines-3000x3000.png?format=750w
     date: 1/1/1901
-  - title: Mastercard
-    text: Producer
-    link: https://podcasts.apple.com/us/podcast/fortune-favors-the-bold-the-official-mastercard-podcast/id1326893538
-    image: https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/5a/3e/56/5a3e56cf-8e79-bae1-8362-bccedfee5ce4/mza_6085385550765906186.jpg/626x0w.webp
-    date: 1/1/1901
   - title: Nike
     text: "Producer "
     link: https://podcasts.apple.com/us/podcast/trained/id1414073313
     image: https://images.squarespace-cdn.com/content/v1/63501d599d9da041a836f803/1666194840041-6P9N1DBWJTIOZALK8WFR/trained.jpg?format=750w
+    date: 1/1/1901
+  - title: Mastercard
+    text: Producer
+    link: https://podcasts.apple.com/us/podcast/fortune-favors-the-bold-the-official-mastercard-podcast/id1326893538
+    image: https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/5a/3e/56/5a3e56cf-8e79-bae1-8362-bccedfee5ce4/mza_6085385550765906186.jpg/626x0w.webp
     date: 1/1/1901
   - title: Penguin / Random House
     text: Associate Producer
