@@ -2,8 +2,8 @@
 title: " "
 accent: Work
 projects:
-  - title: Senior Producer
-    text: DayZero Productions + Spotify
+  - title: DayZero Productions + Spotify
+    text: Senior Producer
     link: https://open.spotify.com/show/122imavATqSE7eCyXIcqZL?si=11176798ea444530
     image: https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/0e/e2/93/0ee2934f-6b70-483a-7cf1-13be9b6e127c/mza_7484161158786393860.jpg/626x0w.webp
     date: 7/20/2024
