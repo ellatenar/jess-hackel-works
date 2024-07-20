@@ -72,6 +72,7 @@ underGridContent: >-
 
   [](https://www.nytimes.com/2024/04/26/arts/podcasts-video-youtube-audio.html)[](https://www.newyorker.com/magazine/2022/01/03/does-wisdom-really-come-from-experience)
 ---
-### For a long time, I developed and produced podcasts at [Pineapple Street Studios](https://www.pineapple.fm/).  I also worked on the HBO Series[ *High Maintenance.* ](https://www.hbo.com/high-maintenance)\
+### For a long time, I developed and produced podcasts at [Pineapple Street Studios](https://www.pineapple.fm/).  I also worked on the HBO Series[ *High Maintenance.* ](https://www.hbo.com/high-maintenance)
+
 \
 Here are a few of the shows I've made:
