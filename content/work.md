@@ -10,7 +10,7 @@ projects:
   - title: Ghost Story // Pineapple Street + Amazon/Wondery
     text: Senior Producer + Development Producer
     link: https://podcasts.apple.com/us/podcast/ghost-story/id1708635466
-    image: https://i.pinimg.com/originals/95/b1/51/95b1511dc8ac7044c8153f305b45c1b4.jpg
+    image: https://images.squarespace-cdn.com/content/v1/63501d599d9da041a836f803/6d45b85c-2079-4abd-bf32-a49dac67dfd1/Ghost_Story_3000x3000_final.png?format=750w
     date: 10/12/2016
   - title: 70 over 70
     text: "Pineapple Street Original "
