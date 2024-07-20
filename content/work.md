@@ -42,10 +42,35 @@ projects:
     link: https://podcasts.apple.com/us/podcast/no-rules-the-birth-of-ufc/id1244784611?i=1000395076659
     image: https://images.squarespace-cdn.com/content/v1/63501d599d9da041a836f803/81a8ae0c-fe85-4881-83b6-ad29059c41b6/Screen%2BShot%2B2019-06-24%2Bat%2B3.39.20%2BPM.png?format=750w
     date: 1/1/1901
-underGridContent: |-2
-   And here some nice things people have said about those projects: 
+underGridContent: >-
+  Selected Press:\
 
-  *"Lorem ipsum"* - Person TK
+  \
+
+  [](https://www.newyorker.com/magazine/2022/01/03/does-wisdom-really-come-from-experience)*The New York Times -*["With YouTube Booming, Podcast Creators Get Camera-Ready"](https://www.nytimes.com/2024/04/26/arts/podcasts-video-youtube-audio.html)
+
+
+  *The Financial Times -* ["Ghost Story podcast review — addictive tale of murder and haunting"](https://www.ft.com/content/fbdbb8b9-db44-42cb-b895-b9c58e77457c)
+
+
+  *Variety - ["Murder of Hugh Dancy’s Great-Grandmother Investigated in New Wondery Podcast ‘Ghost Story’ (EXCLUSIVE)"](https://variety.com/2023/digital/global/hugh-dancy-great-grandmother-murder-wondery-podcast-ghost-story-1235750288/)*[](https://www.ft.com/content/fbdbb8b9-db44-42cb-b895-b9c58e77457c)[](https://www.ft.com/content/fbdbb8b9-db44-42cb-b895-b9c58e77457c)[](https://www.ft.com/content/fbdbb8b9-db44-42cb-b895-b9c58e77457c)[](https://www.nytimes.com/2024/04/26/arts/podcasts-video-youtube-audio.html)
+
+
+  *The Hollywood Reporter -* ["With Age Comes Wisdom: Life Lessons From Podcast ‘70 Over 70’"](https://www.hollywoodreporter.com/business/digital/podcast-70-over-70-lessons-norman-lear-1235102209/)\
+
+  *The New York Times -* "[Seeking Wisdom From an Undervalued Resource: Older People](https://www.nytimes.com/2021/05/21/arts/70-over-70-max-linsky.html)"
+
+
+  *The New Yorker -* ["Does Wisdom Really Come from Experience?"](https://www.newyorker.com/magazine/2022/01/03/does-wisdom-really-come-from-experience)
+
+
+  [](https://www.nytimes.com/2024/04/26/arts/podcasts-video-youtube-audio.html)
+
+
+  [](https://www.nytimes.com/2024/04/26/arts/podcasts-video-youtube-audio.html)
+
+
+  [](https://www.nytimes.com/2024/04/26/arts/podcasts-video-youtube-audio.html)[](https://www.newyorker.com/magazine/2022/01/03/does-wisdom-really-come-from-experience)
 ---
 For a long time, I developed and produced podcasts at Pineapple Street Studios. I also worked on the HBO Series *High Maintenance.* \
 \
