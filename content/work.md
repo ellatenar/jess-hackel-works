@@ -2,11 +2,11 @@
 title: " "
 accent: Work
 projects:
-  - title: Pineapple Street Media
-    link: https://www.pineapple.fm/
-    text: I did X, Y, and Z.
-    image: https://pyxis.nymag.com/v1/imgs/bee/265/93ba82c6fb5e5bb7e446598ce4a86aad24-07-pineapple-feed.1x.rsocial.w1200.jpg
-    date: 7/4/2018
+  - title: GHOST STORY // Pineapple + Amazon Wondery
+    link: https://podcasts.apple.com/us/podcast/ghost-story/id1708635466
+    text: Senior Producer + Development Producer
+    image: https://podcasts.apple.com/us/podcast/ghost-story/id1708635466
+    date: 1/1/1901
   - title: Project 2
     text: Example description
     link: https://example.com
@@ -17,5 +17,6 @@ underGridContent: |-2
 
   *"Lorem ipsum"* - Person TK
 ---
-
+For a long time, I developed and produced podcasts at Pineapple Street Studios. I also used to work on the HBO Series *High Maintenance.* \
+\
 Here are some projects I’ve worked on:
