@@ -12,6 +12,11 @@ projects:
     link: https://podcasts.apple.com/us/podcast/ghost-story/id1708635466
     image: https://i.pinimg.com/originals/95/b1/51/95b1511dc8ac7044c8153f305b45c1b4.jpg
     date: 10/12/2016
+  - title: 70 over 70
+    text: "Pineapple Street Original "
+    link: https://www.pineapple.fm/70-over-70
+    image: https://images.squarespace-cdn.com/content/v1/63501d599d9da041a836f803/1666194839799-0B5R9F1E863I7VMCIPPC/70+over+70+Covers+-+Coral.jpg?format=750w
+    date: 1/1/1901
 underGridContent: |-2
    And here some nice things people have said about those projects: 
 
