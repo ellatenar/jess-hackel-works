@@ -27,6 +27,11 @@ collections:
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Accent", name: "accent", widget: "string" }
           - { label: "Body", name: "body", widget: "markdown" }
+          - {
+              label: "Projects Intro Centered Text",
+              name: "projectsIntro",
+              widget: "markdown",
+            }
           - label: "Projects"
             name: "projects"
             widget: "list"
@@ -58,14 +63,11 @@ collections:
                   hint: "Must be a valid URL",
                   default: "https://example.com",
                 }
-              - {
-                  label: Date,
-                  name: date,
-                  widget: datetime,
-                  default: "",
-                  format: l,
-                  date_format: "M/D/YYYY",
-                }
+          - {
+              label: "Selected Press Intro (centered)",
+              name: "pressIntro",
+              widget: "markdown",
+            }
           - {
               label: "Text under project grid",
               name: "underGridContent",

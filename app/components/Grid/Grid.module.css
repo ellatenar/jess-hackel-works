@@ -1,5 +1,11 @@
 .grid {
-  margin-top: 1rem;
-  display: flex;
-  flex-flow: row wrap;
+  margin: 1rem 0;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+
+@media (max-width: 576px) {
+  .grid {
+    grid-template-columns: 1fr 1fr;
+  }
 }

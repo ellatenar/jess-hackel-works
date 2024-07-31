@@ -7,10 +7,9 @@ export interface CardProps {
   text?: string
   image: string
   link: string
-  date: string
 }
 
-function Card({ title, image, text, link, date }: CardProps) {
+function Card({ title, image, text, link }: CardProps) {
   return (
     <div className={styles.card}>
       <a href={link}>
@@ -25,7 +24,6 @@ function Card({ title, image, text, link, date }: CardProps) {
       <div>
         <a href={link}>{title}</a>
       </div>
-      <div>{date}</div>
       {text && <div>{text}</div>}
     </div>
   )

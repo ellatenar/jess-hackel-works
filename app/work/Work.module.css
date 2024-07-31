@@ -1,3 +1,15 @@
+.projectsIntro {
+  text-align: center;
+}
+
+.work > div + div {
+  margin-top: 1rem;
+}
+
 .underGridContent {
-  margin-top: 2rem;
+  text-align: start;
+}
+
+.underGridContent p {
+  margin: 1rem 0;
 }

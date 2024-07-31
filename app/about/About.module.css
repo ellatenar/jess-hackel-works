@@ -1,3 +1,7 @@
 .about {
   width: min-content;
 }
+
+.about li {
+  margin: 1rem 0;
+}
