@@ -2,18 +2,14 @@
 title: " "
 accent: About
 ---
-I can do a lot of things. 
+Hi! I'm Jess. \
+\
+I'm an award-winning audio/video producer and creative project manager. I know how to develop and pitch show ideas, give great editorial feedback and lead big, creative projects with lots of high-stakes clients. \
+\
+I've spent most of my audio career at Pineapple Street Studios, where I produced nonfiction series and interview shows like *70 over 70*, Amazon/Wondery's *Ghost Story*, ESPN's *Bloodlines* and Nike's first podcast, *Trained.*\
+\
+Prior to Pineapple, I worked on the HBO show *High Maintenance.* 
 
-I’m mostly a podcast producer and creative project manager, but if you need someone who can...
+Currently I'm the Senior Producer of *What Now? with Trevor Noah*, where I oversee our entire video production process. If you ever need to build a set from scratch in a hotel room in Abu Dhabi and produce an interview with Trevor Noah and Idris Elba and publish the interview in less than 36 hours, hit me up. 
 
-* produce video shoots 
-* work with brands and tell their stories
-* successfully develop and pitch show ideas —nonfiction, scripted series, reality shows
-* conduct interviews 
-* report stories 
-* write  — scripts, copy of all kinds, wedding toasts, to-do lists
-* lead teams of creative people
-* manage big, creative projects with lots of high-stakes clients
-* give unsolicited advice about working in podcasts, television and film
-
-... hit me up.
+I'm always looking to work with good people on exciting, challenging and meaningful projects.
